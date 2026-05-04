@@ -64,7 +64,7 @@ Before running the project, make sure you have installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/order-system.git
+git clone https://github.com/nessa-dev/CreatingTheOrderSystemAPI.git
 ```
 
 Go to the project folder:
